@@ -14,4 +14,4 @@ It is only useful for those of us who are lazier than we are concerned about onl
 execute `pip install -r requirements.txt` then `python main.py`.
 <br>Click on Add new account.
 <br>Go to set up a 2fa app on google or reddit or wherever, and it will give you a secret setup key.  Enter that in this app, and click OK.
-<br>It'll also generate a QR code which you can scan with a 2FA app on your phone like Authenticator, and it should generate the same OTP every 30 seconds.
+<br>It'll also be able to generate a QR code, which you can scan with a 2FA app on your phone like Authenticator.
