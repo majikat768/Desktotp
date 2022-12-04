@@ -15,3 +15,8 @@ execute `pip install -r requirements.txt` then `python main.py`.
 <br>Click on Add new account.
 <br>Go to set up a 2fa app on google or reddit or wherever, and it will give you a secret setup key.  Enter that in this app, and click OK.
 <br>It'll also be able to generate a QR code, which you can scan with a 2FA app on your phone like Authenticator.
+
+#
+
+to do:
+<br>add shortcuts, e.g. Ctrl+C, and right click > copy code.
